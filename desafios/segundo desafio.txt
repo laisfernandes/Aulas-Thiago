@@ -1,0 +1,10 @@
+Gostou do desafio ? Se sim, vamos continuar no mesmo então. Agora a tarefa é simples.
+1 - transforme seu código em metodo.
+2 - nós dias da semana, fiz com if. Minha pergunta para os senhores é: posso usar uma estrutura como um dicionario e realizar a mesma tarefa?
+3 - Se usou meu arquivo para continuar seus estudos, agora faça o seguinte:
+    a. transforme tudo em um tipo dataframe.
+    b. faça um filtro e retorne apenas uma  semana.
+    c. dentro dessa semana, verifique:
+        c1. qual o dia da semana mais falado
+        c2. qual o horario.
+        c3 responda porque acha isso ?
