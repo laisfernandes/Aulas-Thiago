@@ -1,0 +1,31 @@
+nome,sobrenome,ano_nascimento,sexo,cidade,profissão,experiencia profissional,estado_civil,filhos,lazer_final_de_semana,pratica_esporte,qual_esporte,quanta_vezes_na_semana_pratica_esporte,tem carro,escolaridade
+Dirceu,Manolo,1985,m,São Vicente,Cientista de Dados,4,Casado,1,"estudar, academia, jogar video game,surfar",sim,academia,3,sim,Ensino Superior
+Maria,Silva,1970,f,Santos,dona de casa,2,Casada,3,ver tv,não,-,0,não,Ensino Médio
+Adalberto,Martins,1990,m,São Paulo,desempregado,0,Solteiro,1,jogar bola,sim,jogo bola,2,sim,Ensino Superior
+João,Aparecido,1950,m,Monte Alto,Gerente de Projeto,3,Viuvo,2,Nã faço nada,,-,,sim,Ensino Superior
+Marta,da Silva,1983,f,São Caetano,Auxiliar de Enfermagem,2,Solteira,0,caminhar,sim,crossfit,4,não,Ensimo Tecnico
+Vilma,Narsiza,1995,f,Minas Gerais,caixa de mercado,4,Solteira,4,barzinho com os amigos,sim,crossfit,3,não,Ensino Médio
+Marcela,Santos,1987,f,Pernanbuco,Não informado,0,Viuvo,0,caminhar,não,-,0,sim,Ensino Médio
+Joao,Victor,2001,m,São Paulo,estagiario,2,Solteiro,0,só jogo bola,sim,jogo bola,1,não,Ensino Superior
+Marcos,Victor,1998,m,Rio de Janeiro,estagiario,1,Solteiro,0,fico em casa,não,-,0,sim,Ensino Superior
+Mirtes,,1976,f,Vitoria,Médica,5,Casada,2,leitura e ficar com os filhos,sim,crossfit,3,sim,Ensino Superior
+Camila,Sousa,2003,f,Rio Grande do Sul,estudante,2,Solteira,1,leitura e ficar com minha filha,sim,natação,3,não,Ensino Superior
+Jaqueline,Virtude,1999,f,Aparecida,Enfermeira,7,Solteira,3,"leitura, limpo a casa",não,-,0,sim,Ensino Superior
+Dirce,Nogueira,1967,f,São Paulo,Autonoma,9,Casada,5,"fico com meus filhos, durante a semana não tenho tempo.",não,-,0,sim,Ensino Superior
+Dirceu,Nogueira,1966,m,São Paulo,Caminhoneiro,2,Casado,2,churrasco,não,-,0,sim,Ensino Médio
+Lucas,Silva e Silva,1995,m,Goias,desempregado,1,Solteiro,0,estudo,sim,correr na rua,4,não,Ensino Superior
+Guilherme,Santos,1997,m,Pernanbuco,Gerente Financeiro,4,Casado,1,correr na rua,sim,Academia,3,sim,Ensino Superior
+Mirtes,de Jesus,1993,f,Bahia,Dentista,6,Solteira,1,correr e ficar com os amigos,sim,Academia,4,sim,Ensino Superior
+Gabriel,Neto,2008,m,Bahia,estudante,0,Solteiro,0,"só jogo bola, gosto de ficar com os amigos em churrasco",não,-,0,não,ensino médio
+Sidney,Magal,1988,m,Acre,Caminhoneiro,1,Casado,3,não faço nada,não,-,,sim,ensino médio
+Virna,de Sousa Santos,1987,f,Fortaleza,Nutricionista,3,Casada,0,"academia, limpeza de casa",sim,natação,2,sim,ensino superior
+Bruno,Amargo,1996,m,Minas Gerais,Pedreiro,3,Casado,1,jogo bola,sim,jogo bola,,,ensino Médio
+Patricia,Alburquerque,1982,f,Santa Catarina,Professora,5,Casada,2,"caminhar, ficar com os filhos",sim,zumba,2,sim,ensino superior
+Cibele,Mirela,1985,f,Santo Andre,Recursos Humanos,7,Divorciada,1,nada,não,-,1,não,ensino superior
+Artur,Vidal,1988,m,Espirito Santo,Frentista,2,Divorciada,3,jogo bola,sim,jobo bola,5,não,ensino médio
+Matias,do Campo,1992,m,São Paulo,Gerente Financeiro,1,Divorciada,1,"caminhar, ler livros e ficar com o filho",sim,crossfit,3,sim,ensino superior
+Minerva,Campina,1991,f,Bahia,Enfermeira,1,Solteira,1,"correr, ler, estudar e ficar com os amigos",não,-,0,não,ensino superior
+Washington,Manoel,1986,m,Goias,Gerente Geral,3,Casado,0,final de semana tiro para descançar,sim,academia,3,sim,ensino superior
+Pedro,Miguel Junior,1984,m,São Paulo,Analista de Sistemas,7,Solteiro,0,barzinho com os amigos e descançar,sim,natação,2,sim,ensino superior
+Tamires,Sousa,1988,f,São Paulo,Biomedica,3,Solteira,0,barzinho com os amigos e descançar,sim,academia,3,não,ensino superior
+Rafael,Nordenho,1988,m,Fortaleza,Comercio Exterior,2,Solteiro,0,"correr, ler, estudar e ficar com os amigos",sim,crossfit,5,sim,ensino superior
